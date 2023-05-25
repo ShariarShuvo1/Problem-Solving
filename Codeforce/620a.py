@@ -1,0 +1,5 @@
+x,y=map(int,input().split())
+m,n=map(int,input().split())
+a=abs(m-x)
+b=abs(n-y)
+print(max(a,b))
