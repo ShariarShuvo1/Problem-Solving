@@ -5,3 +5,8 @@
 
 #MacOS files
 .DS_Store
+
+
+.vscode
+test.py
+test.cpp
