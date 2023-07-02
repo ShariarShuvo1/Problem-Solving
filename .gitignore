@@ -6,6 +6,9 @@
 #MacOS files
 .DS_Store
 
+#ignore exe files
+*.exe
+
 
 .vscode
 test.py
