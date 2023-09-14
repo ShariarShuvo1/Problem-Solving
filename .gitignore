@@ -9,7 +9,10 @@
 #ignore exe files
 *.exe
 
-
+.idea
 .vscode
+Leetcode/cmake-build-debug/
 test.py
 test.cpp
+Solution.java
+CMakeLists.txt
